@@ -132,7 +132,7 @@ git push origin main  # if auto-deploy enabled
 - [ ] Add business info:
   - Name: The Golden Fork
   - Address: [Your address]
-  - Phone: +918688605760
+  - Phone: +917736552508
   - Website: https://www.thegoldenfork.me
 - [ ] Add photos (10+ recommended)
 - [ ] Add menu items

@@ -88,7 +88,7 @@ export default function RootLayout({ children }) {
                 </div>
                 {}
                 <a
-                  href="https://wa.me/918688605760"
+                  href="https://wa.me/917736552508"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="WhatsApp Chat"

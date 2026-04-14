@@ -152,7 +152,7 @@ Add to `app/layout.js` (before closing `</head>`):
 1. Create/Claim: https://business.google.com
 2. Add:
    - Business address
-   - Phone: +918688605760
+   - Phone: +917736552508
    - Hours
    - Photos
    - Menu
@@ -284,7 +284,7 @@ https://www.thegoldenfork.me/
 ## 📞 Contact Information
 
 **Website**: https://www.thegoldenfork.me  
-**WhatsApp**: +918688605760
+**WhatsApp**: +917736552508
 
 ---
 

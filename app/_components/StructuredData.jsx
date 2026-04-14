@@ -16,7 +16,7 @@ export default function StructuredData() {
       "@type": "PostalAddress",
       "addressCountry": "IN"
     },
-    "telephone": "+918688605760",
+    "telephone": "+917736552508",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
