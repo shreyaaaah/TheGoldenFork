@@ -37,15 +37,15 @@ export default function Footer() {
           <div className="space-y-3">
             <div className="flex items-center gap-2">
               <span className="text-2xl">🍳</span>
-              <span className="text-lg font-extrabold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">FoodVibe</span>
+              <span className="text-lg font-extrabold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">The Golden Fork</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Fresh, delicious meals from a live local kitchen. Made with love, served with speed.
             </p>
             <div className="flex gap-2">
-              <a href="https://wa.me/8688605760" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">📱</a>
-              <a href="mailto:chimbilicharan@gmail.com" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">📧</a>
-              <a href="https://twitter.com/chimbilicharan" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">🐦</a>
+              <a href="https://wa.me/7736552508" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">📱</a>
+              <a href="mailto:info@GoldenFork.com" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">📧</a>
+              <a href="#" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">🐦</a>
               <a href="#" className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border/60 hover:bg-foreground/5">📘</a>
             </div>
           </div>
@@ -92,14 +92,14 @@ export default function Footer() {
               </div>
             )}
             <div className="mt-4 text-xs text-muted-foreground">
-              <p>📍 Guntakal, Andhra Pradesh & nearby</p>
+              <p>📍 Kurnool, Andhra Pradesh</p>
               <p>🕒 11 AM - 11 PM</p>
             </div>
           </div>
         </div>
 
         <div className="mt-8 flex flex-col-reverse items-center justify-between gap-4 border-t border-border/60 pt-6 text-xs text-muted-foreground sm:flex-row">
-          <p>© {new Date().getFullYear()} FoodVibe. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} The Golden Fork. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <a href="#privacy" className="hover:text-foreground">Privacy</a>
             <a href="#terms" className="hover:text-foreground">Terms</a>
