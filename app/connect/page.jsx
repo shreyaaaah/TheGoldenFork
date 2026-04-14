@@ -147,7 +147,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <p className="text-sm font-medium text-slate-400 mb-1">Email Us</p>
-                        <a href="mailto:info@hotelmadiina.com" className="text-white hover:text-violet-400 transition-colors font-medium">
+                        <a href="mailto:info@GoldenFork.com" className="text-white hover:text-violet-400 transition-colors font-medium">
                           info@GoldenFork.com
                         </a>
                       </div>

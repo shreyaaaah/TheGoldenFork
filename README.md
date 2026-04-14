@@ -4,7 +4,7 @@ Welcome to **The Golden Fork**, a high-end, production-ready food delivery web a
 
 ## 🚀 Live Demo
 Check out the live application here:
-**[https://the-golden-fork-bwjga9gy6-shreyaaaahs-projects.vercel.app/](https://the-golden-fork-bwjga9gy6-shreyaaaahs-projects.vercel.app/)**
+**[https://the-golden-fork-pz96.vercel.app/](https://the-golden-fork-pz96.vercel.app/)**
 
 ## ✨ Key Features
 - **Modern UI/UX**: A sleek, responsive design optimized for all devices.
